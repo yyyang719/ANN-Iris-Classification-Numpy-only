@@ -35,8 +35,7 @@ measurement of performance:
 two images are saved for measurement of performance:
 the first one is k-fold cross validation results, which shows that there is no overfitting during the whole training process.
 the second one is the results for train data through the whole training process.
+
 ![k-fold cross validation](https://github.com/yyyang719/ANN-Iris-Classification-Numpy-only/assets/125943763/a87766a7-2926-4913-a7de-f9bcdc0b7baa)
 
-
-
-
+![curves of accuracy and loss for the train data](https://github.com/yyyang719/ANN-Iris-Classification-Numpy-only/assets/125943763/ced2cede-9906-4fa9-93e0-04c4dfd203a6)
